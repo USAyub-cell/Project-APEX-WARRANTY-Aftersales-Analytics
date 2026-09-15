@@ -136,7 +136,7 @@ The simulated warranty portfolio contains approximately £8.09 million in govern
 Audit activity identified approximately £797,250 in potential recovery value, demonstrating the commercial contribution of effective warranty controls and retailer audit activity. However, recovery value should not be viewed in isolation. Sustainable improvement also depends on addressing the underlying causes of non-compliance through retailer engagement, training, policy reinforcement and evidence-based remediation.
 
 Overall, the Project APEX-WARRANTY analysis supports a management approach built around a continuous control cycle:
-Detect → Validate → Prioritise → Communicate → Remediate → Verify → Govern
+**Detect → Validate → Prioritise → Communicate → Remediate → Verify → Govern**
 This ensures that warranty analytics moves beyond reporting historical performance and becomes a structured decision-support capability for reducing cost exposure, improving retailer controls, strengthening customer-service outcomes and maintaining an auditable evidence trail from source data through to corrective action.
 
 ## Recommended Power BI pages
