@@ -129,6 +129,16 @@ These are **simulation outputs**, not market benchmarks:
 - Highest-cost failure category: **Powertrain (£1,983,913.45)**
 - Lowest average audit-score region in the simulation: **Europe (76.3%)**
 
+## Key Management Insights
+
+The simulation shows that strong audit completion does not automatically mean strong control performance: 98.8% of audits were completed, while average compliance was 78.8%. It also highlights the importance of linking warranty cost, data quality, retailer performance and corrective-action closure to identify where management attention is most needed.
+The simulated warranty portfolio contains approximately £8.09 million in governed warranty cost, with a normalised cost of about £294.69 per vehicle sold and 14.88 claims per 100 vehicles. These measures provide a more meaningful basis for comparison than total cost alone because they allow management to assess warranty exposure relative to sales volume and operational performance.
+Audit activity identified approximately £797,250 in potential recovery value, demonstrating the commercial contribution of effective warranty controls and retailer audit activity. However, recovery value should not be viewed in isolation. Sustainable improvement also depends on addressing the underlying causes of non-compliance through retailer engagement, training, policy reinforcement and evidence-based remediation.
+
+Overall, the Project APEX-WARRANTY analysis supports a management approach built around a continuous control cycle:
+Detect → Validate → Prioritise → Communicate → Remediate → Verify → Govern
+This ensures that warranty analytics moves beyond reporting historical performance and becomes a structured decision-support capability for reducing cost exposure, improving retailer controls, strengthening customer-service outcomes and maintaining an auditable evidence trail from source data through to corrective action.
+
 ## Recommended Power BI pages
 
 1. **Executive Summary** - audit delivery, compliance, warranty cost, reserve, recovery, high-risk claims and overdue actions.
