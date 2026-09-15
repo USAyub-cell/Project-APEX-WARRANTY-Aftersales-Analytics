@@ -39,7 +39,7 @@ The raw workbook contains deliberately imperfect source data so the project demo
 - `APEXWARRANTY_D-001_Raw_Aftersales_Warranty_Audit_Data_v1.0.0.xlsx` - deliberately dirty source dataset.
 - `APEXWARRANTY_D-002_Clean_Aftersales_Warranty_Audit_Data_v1.0.0.xlsx` - governed, Power BI/SQL-ready analytical dataset.
 - `APEXWARRANTY_SQL-001_PostgreSQL_Analytics_Solution_v1.0.0.sql` - profiling, cleaning, star-schema logic, KPIs, risk analysis and executive queries.
-- `APEXWARRANTY_G-001_Implementation_PowerBI_Interview_Guide_v1.0.0.docx` - business method, model, DAX, dashboard build and interview demonstration.
+- `APEXWARRANTY_G-001_Implementation_PowerBI_Interview_Guide_v1.0.0.docx` - business method, model, DAX, dashboard build and demonstration.
 
 ## Seeded data-quality problems
 
@@ -109,13 +109,25 @@ These are **simulation outputs**, not market benchmarks:
 5. **Data Quality & Controls** - DQ pass rate, invalid VINs, cost reconciliation, excluded analytical records and issue trends.
 6. **Training & Structured Improvement** - actions, overdue items, training needs, owners, priorities and closure performance.
 
-## Interview story
+## Power BI Dashboard Portfolio
 
-**Situation:** A global aftersales organisation needs consistent warranty audit coverage and trusted reporting across a distributed retailer network.  
-**Task:** Build a governed analytical solution that connects warranty claims, retailer audits, vehicle sales, cost exposure and corrective actions.  
-**Action:** Create deliberately imperfect raw data, profile and remediate data quality, build a star schema, implement SQL KPIs and statistical risk tests, then reconstruct the executive reporting layer in Power BI.  
-**Result:** A reproducible simulation that demonstrates audit governance, warranty cost analysis, retailer prioritisation, executive reporting, data quality and structured improvement.  
-**Learning:** Audit analytics is not only about finding exceptions; it is about creating a controlled evidence trail from source data through decision, communication and remediation.
+### Executive Summary
+![Executive Summary](dashboards/APEXWARRANTY_DASH-001_Executive_Summary_4K.png)
+
+### Warranty Cost & Risk
+![Warranty Cost & Risk](dashboards/APEXWARRANTY_DASH-002_Warranty_Cost_Risk_4K.png)
+
+### Audit & Governance
+![Audit & Governance](dashboards/APEXWARRANTY_DASH-003_Audit_Governance_4K.png)
+
+### Retailer Performance
+![Retailer Performance](dashboards/APEXWARRANTY_DASH-004_Retailer_Performance_4K.png)
+
+### Data Quality & Controls
+![Data Quality & Controls](dashboards/APEXWARRANTY_DASH-005_Data_Quality_Controls_4K.png)
+
+### Training & Structured Improvement
+![Training & Structured Improvement](dashboards/APEXWARRANTY_DASH-006_Training_Structured_Improvement_4K.png)
 
 ## Portfolio wording
 
