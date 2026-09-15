@@ -6,7 +6,7 @@
 **Primary tools:** Excel, PostgreSQL/SQL, Power BI, Power Query, DAX  
 **Portfolio purpose:** Demonstrate how an Aftersales Warranty Audit / Analytics function can use governed data to plan audits, analyse warranty cost risk, monitor retailer performance, communicate executive insight, and drive structured improvement.
 
-> **Important:** This project is 100% synthetic. It does not contain confidential company's, retailer, customer, vehicle or warranty data. Automotive brand names are used only as analytical labels in a fictional multi-brand dataset.
+> **Important:** This project is 100% synthetic. It does not contain confidential company, retailer, customer, vehicle or warranty data. Automotive brand names are used only as analytical labels in a fictional multi-brand dataset.
 
 ## Business problem
 
@@ -143,4 +143,4 @@ These are **simulation outputs**, not market benchmarks:
 
 ## Portfolio wording
 
-> **Project APEX-WARRANTY - Professional Capstone Consulting Simulation:** Was Designed as synthetic multi-brand automotive aftersales warranty audit and analytics solution integrating 4,000+ warranty claims, retailer audits, vehicle sales and remediation actions. Applied data-quality governance, PostgreSQL risk and KPI analysis, and a Power BI-ready star schema to demonstrate warranty cost optimisation, audit-plan monitoring, retailer performance and executive decision support.
+> **Project APEX-WARRANTY - Professional Capstone Consulting Simulation:** Designed as synthetic multi-brand automotive aftersales warranty audit and analytics solution integrating 4,000+ warranty claims, retailer audits, vehicle sales and remediation actions. Applied data-quality governance, PostgreSQL risk and KPI analysis, and a Power BI-ready star schema to demonstrate warranty cost optimisation, audit-plan monitoring, retailer performance and executive decision support.
