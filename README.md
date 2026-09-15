@@ -111,23 +111,33 @@ These are **simulation outputs**, not market benchmarks:
 
 ## Power BI Dashboard Portfolio
 
-### Executive Summary
-![Executive Summary](dashboards/APEXWARRANTY_DASH-001_Executive_Summary_4K.png)
+The following dashboard pages were developed from the governed synthetic Project APEX-WARRANTY dataset to demonstrate executive reporting, warranty cost analysis, retailer audit governance, data-quality controls and structured improvement.
 
-### Warranty Cost & Risk
-![Warranty Cost & Risk](dashboards/APEXWARRANTY_DASH-002_Warranty_Cost_Risk_4K.png)
+### 1. Executive Summary
 
-### Audit & Governance
-![Audit & Governance](dashboards/APEXWARRANTY_DASH-003_Audit_Governance_4K.png)
+![Project APEX-WARRANTY Executive Summary](dashboards/APEXWARRANTY_DASH-001_Executive_Summary_4K.png)
 
-### Retailer Performance
-![Retailer Performance](dashboards/APEXWARRANTY_DASH-004_Retailer_Performance_4K.png)
+### 2. Warranty Cost & Risk
 
-### Data Quality & Controls
-![Data Quality & Controls](dashboards/APEXWARRANTY_DASH-005_Data_Quality_Controls_4K.png)
+![Project APEX-WARRANTY Warranty Cost and Risk](dashboards/APEXWARRANTY_DASH-002_Warranty_Cost_Risk_4K.png)
 
-### Training & Structured Improvement
-![Training & Structured Improvement](dashboards/APEXWARRANTY_DASH-006_Training_Structured_Improvement_4K.png)
+### 3. Audit & Governance
+
+![Project APEX-WARRANTY Audit and Governance](dashboards/APEXWARRANTY_DASH-003_Audit_Governance_4K.png)
+
+### 4. Retailer Performance
+
+![Project APEX-WARRANTY Retailer Performance](dashboards/APEXWARRANTY_DASH-004_Retailer_Performance_4K.png)
+
+### 5. Data Quality & Controls
+
+![Project APEX-WARRANTY Data Quality and Controls](dashboards/APEXWARRANTY_DASH-005_Data_Quality_Controls_4K.png)
+
+### 6. Training & Structured Improvement
+
+![Project APEX-WARRANTY Training and Structured Improvement](dashboards/APEXWARRANTY_DASH-006_Training_Structured_Improvement_4K.png)
+
+> **Portfolio note:** These dashboard visuals are based entirely on synthetic Project APEX-WARRANTY data and do not represent Bentley Motors, VW Group, any real retailer, customer or manufacturer warranty performance.
 
 ## Portfolio wording
 
