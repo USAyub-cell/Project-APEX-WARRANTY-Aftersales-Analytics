@@ -21,6 +21,35 @@ A global automotive aftersales function needs a repeatable way to:
 - create board-level KPIs and trend reporting;
 - prioritise improvement activity across regions, importers and retailers.
 
+## Power BI Dashboard Portfolio
+
+The following dashboard pages were developed from the governed synthetic Project APEX-WARRANTY dataset to demonstrate executive reporting, warranty cost analysis, retailer audit governance, data-quality controls and structured improvement.
+
+### 1. Executive Summary
+
+![Project APEX-WARRANTY Executive Summary](dashboards/APEXWARRANTY_DASH-001_Executive_Summary_4K.png)
+
+### 2. Warranty Cost & Risk
+
+![Project APEX-WARRANTY Warranty Cost and Risk](dashboards/APEXWARRANTY_DASH-002_Warranty_Cost_Risk_4K.png)
+
+### 3. Audit & Governance
+
+![Project APEX-WARRANTY Audit and Governance](dashboards/APEXWARRANTY_DASH-003_Audit_Governance_4K.png)
+
+### 4. Retailer Performance
+
+![Project APEX-WARRANTY Retailer Performance](dashboards/APEXWARRANTY_DASH-004_Retailer_Performance_4K.png)
+
+### 5. Data Quality & Controls
+
+![Project APEX-WARRANTY Data Quality and Controls](dashboards/APEXWARRANTY_DASH-005_Data_Quality_Controls_4K.png)
+
+### 6. Training & Structured Improvement
+
+![Project APEX-WARRANTY Training and Structured Improvement](dashboards/APEXWARRANTY_DASH-006_Training_Structured_Improvement_4K.png)
+
+
 ## Dataset
 
 The raw workbook contains deliberately imperfect source data so the project demonstrates governance rather than only dashboard design.
@@ -109,33 +138,6 @@ These are **simulation outputs**, not market benchmarks:
 5. **Data Quality & Controls** - DQ pass rate, invalid VINs, cost reconciliation, excluded analytical records and issue trends.
 6. **Training & Structured Improvement** - actions, overdue items, training needs, owners, priorities and closure performance.
 
-## Power BI Dashboard Portfolio
-
-The following dashboard pages were developed from the governed synthetic Project APEX-WARRANTY dataset to demonstrate executive reporting, warranty cost analysis, retailer audit governance, data-quality controls and structured improvement.
-
-### 1. Executive Summary
-
-![Project APEX-WARRANTY Executive Summary](dashboards/APEXWARRANTY_DASH-001_Executive_Summary_4K.png)
-
-### 2. Warranty Cost & Risk
-
-![Project APEX-WARRANTY Warranty Cost and Risk](dashboards/APEXWARRANTY_DASH-002_Warranty_Cost_Risk_4K.png)
-
-### 3. Audit & Governance
-
-![Project APEX-WARRANTY Audit and Governance](dashboards/APEXWARRANTY_DASH-003_Audit_Governance_4K.png)
-
-### 4. Retailer Performance
-
-![Project APEX-WARRANTY Retailer Performance](dashboards/APEXWARRANTY_DASH-004_Retailer_Performance_4K.png)
-
-### 5. Data Quality & Controls
-
-![Project APEX-WARRANTY Data Quality and Controls](dashboards/APEXWARRANTY_DASH-005_Data_Quality_Controls_4K.png)
-
-### 6. Training & Structured Improvement
-
-![Project APEX-WARRANTY Training and Structured Improvement](dashboards/APEXWARRANTY_DASH-006_Training_Structured_Improvement_4K.png)
 
 > **Portfolio note:** These dashboard visuals are based entirely on synthetic Project APEX-WARRANTY data and do not represent Bentley Motors, VW Group, any real retailer, customer or manufacturer warranty performance.
 
